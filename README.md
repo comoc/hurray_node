@@ -1,4 +1,4 @@
 ```
 npm install
-node index.json
+node index.js
 ```
